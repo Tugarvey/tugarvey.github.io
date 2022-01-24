@@ -1,0 +1,28 @@
+h1 {
+color:pink;
+font-family:helvetica;
+}
+
+h2{
+  color:darkblue;
+  font-family:cursive;
+  font-style:italic;
+}
+body {
+background-color: lightblue;
+}
+
+
+img{
+  border: 5px solid darkblue;
+width:35%;
+height:35%;
+margin-bottom:50px;
+}
+
+
+p2{
+  color:darkblue;
+  font-family:times;
+
+}
